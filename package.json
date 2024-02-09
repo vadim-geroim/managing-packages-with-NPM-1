@@ -2,6 +2,10 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Vadim Geroim",
   "description": "A project that does something awesome",
+  "keywords": [
+    "freecodecamp",
+    "node"
+  ],
   "dependencies": {
     "express": "^4.14.0"
   },
