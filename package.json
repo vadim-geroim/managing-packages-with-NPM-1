@@ -2,6 +2,7 @@
   "name": "fcc-learn-npm-package-json",
   "author": "Vadim Geroim",
   "description": "A project that does something awesome",
+  "license": "MIT",
   "keywords": [
     "freecodecamp",
     "node"
